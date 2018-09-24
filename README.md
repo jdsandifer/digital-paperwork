@@ -1,4 +1,4 @@
-# Digital Paperwork
+# Event Digital Paperwork App
 React app I pioneered and helped implement at work to increase department efficiency and decrease paper usage.
 
 ### Start of the Project
