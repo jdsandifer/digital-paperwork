@@ -1,5 +1,5 @@
 # Event Digital Paperwork App
-React app I pioneered and helped implement at work to increase department efficiency and decrease paper usage.
+A React app I pioneered and helped implement at work to increase department efficiency and decrease paper usage.
 
 ### Start of the Project
 We had used a paperwork-based system for managing the setup and tear-down of equipment in my department at work. 
@@ -18,16 +18,16 @@ even creating lockups on the largest events because of all of the data passing b
 
 ### The Solution
 
-I was consulted to see what could be done to improve the situation. I suggested moving toward an API system where the fronted queried 
-the backend for data, received all data for each event at one time, and then controlled the display of that data. 
-I also suggested using React on the frontend to help force a component approach to the frontend development and help 
-speed up the rendering of the frontend.
+I was consulted to see what could be done to improve the situation. I suggested moving toward an API system where the front-end queried 
+the backend for data, received all the data for each event at one time, and then controlled the display of that data. 
+I also suggested using React on the frontend to help force a component approach to the front-end development and help 
+speed up the rendering of the front-end.
 
 ### Aftermath
-My suggestions were implemented and page loads for the software inproved dramatically. Even the largest events were 
+My suggestions were accepted and I helped with the implementation - making most of the front-end changes myself. Page loads for the software improved dramatically. Even the largest events were 
 loading in reasonable time frames and the user interface was more responsive.
 
 ### Continual Improvement
 Even after the initial success of my solution, I found additional ways to improve the software. Using PureComponent, 
 I was able to make sure components that didn't have changes in data weren't re-rendering with each new cycle. 
-That further improved the UI so that it is now very responsive.
+With that and other optimizations, the UI it is now very responsive.
