@@ -31,3 +31,5 @@ loading in reasonable time frames and the user interface was more responsive.
 Even after the initial success of my solution, I found additional ways to improve the software. Using PureComponent, 
 I was able to make sure components that didn't have changes in data weren't re-rendering with each new cycle. 
 With that and other optimizations, the UI it is now very responsive.
+
+In addition, I continued to contribute to the system by helping to improve the back end next: [Back End Improvements](https://github.com/jdsandifer/digital-paperwork/blob/master/Backend.md).
